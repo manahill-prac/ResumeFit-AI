@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+temp_uploads/*
+!temp_uploads/.gitkeep
+*.log
+.DS_Store
+
+venv/
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+feedback.mp3
+temp_uploads/
