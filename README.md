@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📄 ResumeFit AI
 
 > Intelligent Resume Analysis & Job Match Platform — powered by AI, deployable on Streamlit Cloud.
@@ -173,6 +172,3 @@ MIT License — free to use, modify, and deploy.
 
 *Built with ❤️ for job seekers everywhere.*
 =======
-# ResumeFit-AI
-AI resume Analyzer
->>>>>>> a6d5c0167eed088066e47205ce68bb127aaace92
