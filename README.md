@@ -126,16 +126,6 @@ The app uses `gpt-3.5-turbo` for cost efficiency.
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots after deployment)*
-
-| Upload Page | Dashboard | Skills Analysis |
-|---|---|---|
-| ![upload](screenshots/upload.png) | ![dashboard](screenshots/dashboard.png) | ![skills](screenshots/skills.png) |
-
----
-
 ## 🎨 Design System
 
 | Token | Value |
